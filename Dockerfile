@@ -1,5 +1,5 @@
 # Get the offical image
-FROM python:3.9.18
+FROM python:3.12.1
 
 # Generate python output
 ENV PYTHONUNBUFFERED 1
